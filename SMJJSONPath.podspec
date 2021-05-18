@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SMJJSONPath'
-  s.version          = '1.0.4'
+  s.version          = '1.0.5'
   s.summary          = 'SMJJSONPath is a implementation of Jaway JSONPath in ObjC'
 
 # This description is used to generate tags and improve search results.
